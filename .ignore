@@ -1,0 +1,17 @@
+/release/*
+/file/*
+/target/*
+/logs/*
+/log/*
+/.idea/*
+/.svn/*
+/.settings/*
+/.metadata/*
+/bin/*
+
+*.class
+*.jar
+*.log
+
+/.classpath
+/.project
